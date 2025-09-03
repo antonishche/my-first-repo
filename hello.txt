@@ -1,1 +1,1 @@
-Это содержимое моего файла
+Hello, Git! This is an update
